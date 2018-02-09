@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\drawable-hdpi\\shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet.png",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\drawable-hdpi\\red_packet.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_d.png",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\drawable-hdpi\\arrow_d.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape2.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\drawable-hdpi\\shape2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select_btn.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\drawable-hdpi\\select_btn.xml"
+    }
+]

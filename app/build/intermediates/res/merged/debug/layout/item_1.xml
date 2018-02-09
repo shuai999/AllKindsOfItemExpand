@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:id="@+id/table"
+        style="@style/table"
+        android:background="@drawable/shape2"
+        android:layout_marginTop="0dp" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="10dp" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="还款期数：" />
+
+            <TextView
+                android:id="@+id/tv_repayCycle"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="1" />
+        </TableRow>
+
+        <View style="@style/viewLine" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="10dp" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="共计本息：" />
+
+            <TextView
+                android:id="@+id/tv_total"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="500" />
+        </TableRow>
+
+        <View
+            android:id="@+id/splitLine1"
+            style="@style/viewLine" />
+
+        <TableRow
+            android:id="@+id/rowRepayDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="10dp" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="还款时间：" />
+
+            <TextView
+                android:id="@+id/tv_repayDate"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="20160121" />
+        </TableRow>
+
+        <View
+            android:id="@+id/splitLine2"
+            style="@style/viewLine" />
+
+        <TableRow
+            android:id="@+id/rowPrinciple"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="10dp" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="剩余待还本金：" />
+
+            <TextView
+                android:id="@+id/tv_notRepayPrincipal"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="500" />
+        </TableRow>
+
+        <View
+            android:id="@+id/splitLine3"
+            style="@style/viewLine" />
+
+        <TableRow
+            android:id="@+id/rowInterest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="10dp" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="剩余待还利息：" />
+
+            <TextView
+                android:id="@+id/tv_notRepayInterest"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="5.35" />
+        </TableRow>
+
+        <ImageView
+            android:id="@+id/img_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:src="@drawable/arrow_d" />
+    </TableLayout>
+
+</LinearLayout>

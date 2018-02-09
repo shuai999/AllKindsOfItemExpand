@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res"/><source path="E:\AndroidProject\ItemClickExpandDemo\app\build\generated\res\rs\debug"/><source path="E:\AndroidProject\ItemClickExpandDemo\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\AndroidProject\ItemClickExpandDemo\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res"><file name="arrow_d" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-hdpi\arrow_d.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_packet" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-hdpi\red_packet.png" qualifiers="hdpi-v4" type="drawable"/><file name="select_btn" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-hdpi\select_btn.xml" qualifiers="hdpi-v4" type="drawable"/><file name="shape" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-hdpi\shape.xml" qualifiers="hdpi-v4" type="drawable"/><file name="shape2" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-hdpi\shape2.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_multi_expand" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\layout\activity_multi_expand.xml" qualifiers="" type="layout"/><file name="activity_one_expand" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\layout\activity_one_expand.xml" qualifiers="" type="layout"/><file name="activity_table_expand" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\layout\activity_table_expand.xml" qualifiers="" type="layout"/><file name="item_1" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\layout\item_1.xml" qualifiers="" type="layout"/><file name="item_2" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\layout\item_2.xml" qualifiers="" type="layout"/><file path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="title_activity_one_expand">OneExpandActivity</string><string name="action_settings">Settings</string><string name="app_name">ItemClickExpandDemo</string><string name="title_activity_multi_expand">MultiExpandActivity</string></file><file path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\values\styles.xml" qualifiers=""><style name="textNormal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="StyleLayoutMain">
+        <item name="android:id">@+id/layout_main</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">#F5F5F5</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="table">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/shape</item>
+        <item name="android:shrinkColumns">1</item>
+        <item name="android:stretchColumns">1</item>
+    </style><style name="viewLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dip</item>
+        <item name="android:layout_marginLeft">15dip</item>
+        <item name="android:layout_marginRight">15dip</item>
+        <item name="android:background">#d8d7d7</item>
+    </style><style name="StyleRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">15dip</item>
+        <item name="android:paddingRight">15dip</item>
+        <item name="android:paddingTop">10dip</item>
+        <item name="android:paddingBottom">10dip</item>
+    </style><style name="list">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:dividerHeight">5dp</item>
+        <item name="android:divider">#00000000</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:choiceMode">singleChoice</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file name="arrow_down" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-xxhdpi\arrow_down.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="arrow_up" path="E:\AndroidProject\ItemClickExpandDemo\app\src\main\res\drawable-xxhdpi\arrow_up.png" qualifiers="xxhdpi-v4" type="drawable"/></source><source path="E:\AndroidProject\ItemClickExpandDemo\app\build\generated\res\rs\debug"/><source path="E:\AndroidProject\ItemClickExpandDemo\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\AndroidProject\ItemClickExpandDemo\app\src\debug\res"/></dataSet><mergedItems/></merger>

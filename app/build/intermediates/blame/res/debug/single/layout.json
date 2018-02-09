@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_2.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\layout\\item_2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_expand.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\layout\\activity_multi_expand.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_table_expand.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\layout\\activity_table_expand.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_1.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\layout\\item_1.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_expand.xml",
+        "source": "E:\\AndroidProject\\ItemClickExpandDemo\\app\\src\\main\\res\\layout\\activity_one_expand.xml"
+    }
+]

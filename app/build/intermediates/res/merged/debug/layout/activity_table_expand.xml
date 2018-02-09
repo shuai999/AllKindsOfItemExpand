@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:orientation="vertical" >
+
+    <TableLayout
+        style="@style/table"
+        android:layout_margin="8dp" >
+
+        <TableRow style="@style/StyleRow" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="类型:" />
+
+            <TextView
+                android:id="@+id/tv_type"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="个人消费" />
+        </TableRow>
+
+        <View style="@style/viewLine" />
+
+        <TableRow style="@style/StyleRow" >
+
+            <TextView
+                style="@style/textNormal"
+                android:text="还款帐号：" />
+
+            <TextView
+                android:id="@+id/tv_repayAccount"
+                style="@style/textNormal"
+                android:singleLine="true"
+                android:text="622000******31008" />
+        </TableRow>
+    </TableLayout>
+
+    <!-- 还款信息 -->
+
+    <ListView
+        android:id="@+id/lv_repayInfoList"
+        style="@style/list"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>

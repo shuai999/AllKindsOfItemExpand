@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ItemClickExpandDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_one_expand">OneExpandActivity</string>
+    <string name="title_activity_multi_expand">MultiExpandActivity</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <Button 
+        android:id="@+id/btn_oneExpand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="单个 Item 展开"/>
+    <Button 
+        android:id="@+id/btn_MultiExpand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_oneExpand"
+        android:text="多个 Item 展开"/>
+    <Button 
+        android:id="@+id/btn_tableExpand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_MultiExpand"
+        android:text="表格 Item 展开"/>
+
+</RelativeLayout>
